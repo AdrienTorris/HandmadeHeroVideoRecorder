@@ -12,7 +12,7 @@ So watch them on YouTube as long as you can !
 ##References
 
 ###Hero Handmade
-*  [an example](https://handmadehero.org/ "handmadehero.org")
+*  [handmadehero.org](https://handmadehero.org/ "handmadehero.org")
 
 ###Hero Handmade Network
 
