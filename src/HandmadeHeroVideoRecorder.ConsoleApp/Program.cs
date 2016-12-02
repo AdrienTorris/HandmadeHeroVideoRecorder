@@ -345,34 +345,6 @@
             }
         }
 
-        /// <summary>
-        /// Save episode guide in a text file
-        /// </summary>
-        async void RecordEpisodeGuide()
-        {
-            // Get path
-            Console.WriteLine("Where do you want to record this video ?");
-            string outputDirectoryPath = Console.ReadLine();
-            if (string.IsNullOrWhiteSpace(outputDirectoryPath) || !Directory.Exists(outputDirectoryPath))
-            {
-                Console.WriteLine("An error occured");
-                return;
-            }
-
-            try
-            {
-
-            }
-            catch (Exception)
-            {
-                throw;
-            }
-            finally
-            {
-
-            }
-        }
-
         #region Internals
 
         /// <summary>
